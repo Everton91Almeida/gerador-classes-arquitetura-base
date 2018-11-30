@@ -1,0 +1,1 @@
+# gerador-classes-arquitetura-base
